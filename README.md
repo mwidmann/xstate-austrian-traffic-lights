@@ -1,4 +1,6 @@
-# xstate-traffic-lights
+# xstate-austrian-traffic-lights
+
+This repository has an example of a state machine using [XState](https://xstate.js.org/) to simulate how Austrian traffic lights work.
 
 ## Project setup
 ```
